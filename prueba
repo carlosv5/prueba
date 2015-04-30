@@ -1,4 +1,8 @@
 Fichero de prueba para probar las ramas en github
+<<<<<<< HEAD
 
 Mientras, master continúa una version
 Y una tercera versión, en la que integraré la rama de antes
+=======
+Esto lo he añadido en la rama "rama"
+>>>>>>> rama
